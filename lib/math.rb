@@ -25,7 +25,6 @@ end
 modulo(10,10)
 
 def square_root(num)
-sum = 
-puts sqrt
+puts sqrt(25)
 end
-square_root(4)
+square_root(25)
