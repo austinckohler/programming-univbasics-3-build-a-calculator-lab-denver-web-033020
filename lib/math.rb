@@ -25,7 +25,7 @@ end
 modulo(10,10)
 
 def square_root(num)
-sqrt = (num)
+sqrt = num
 puts sqrt
 end
 square_root(4)
