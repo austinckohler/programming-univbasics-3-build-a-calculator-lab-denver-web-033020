@@ -25,7 +25,7 @@ end
 modulo(10,10)
 
 def square_root(num)
-sum = sqrt(25)
+sum = integer.sqrt(25)
 puts sum
 end
 square_root(25)
